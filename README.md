@@ -17,14 +17,15 @@
 * Spring, Spring boot
 * React.js
 * Oracle, mySql, postgreSql, mongoDB
-
+<!--
 ### 관련 경력 (총 5년)
 * 포스코 모델 워크벤치, 비정형분석 운영  22.07 ~ 현재
 * 포스코 모델 분석 시스템, AI 플랫폼 개발  21.12 ~ 22.06
 * 스마트 해링턴 앱 개발  21.03 ~ 21.11
 * 포스코 ERP 근태 관리 시스템 개발  20.12 ~ 21.02 
 * 포스코 MES 3.0 개발  19.10 ~ 20.11
-* 한국발명진흥회 그룹웨어, 사업지원 신청 시스템, 포털 사이트 개발 및 운영  17.06 ~ 19.08
+* 한국발명진흥회 그룹웨어, 사업지원 신청 시스템, 포털 사이트 개발 및 운영  17.06 ~ 19.08 
+-->
 
 <!---
 kys1109/kys1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
